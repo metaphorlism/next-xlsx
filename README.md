@@ -5,11 +5,11 @@ disqus: JBeanny
 
 By: Yim Sotharoth
 
-docs: https://hackmd.io/@JBeanny/Hyp3qc8Kn
+docs: https://hackmd.io/@JBeanny/SyV-LTJ9h
 
-Real time communication of Nodejs Application with Kafkajs
+Export data from the table to xlsx file
 <img
-    src="https://kafka.js.org/img/kafkajs_circle.png"   
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/.xlsx_icon.svg/2048px-.xlsx_icon.svg.png"   
     alt="kafka-png"
     width="30"
 />
